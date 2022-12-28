@@ -1,0 +1,16 @@
+KQL Blue Teaming: https://github.com/ashwin-patil/blue-teaming-with-kql
+
+WEB APPS: Microsoft-Sentinel-SecOps/WebAppsAttack at master · eshlomo1/Microsoft-Sentinel-SecOps (github.com)
+
+Time series anomaly ip: SentinelAnalyticsRules/Time series anomaly detection for total volume of traffic.json at 69fb631e45ec37c9b7b178cfe19207648ffccb0d · kmtechsupport/SentinelAnalyticsRules (github.com)
+
+Good list of links: Hunting-Queries-Detection-Rules/Threat Hunting Cases at main · Bert-JanP/Hunting-Queries-Detection-Rules (github.com)
+
+TIMEZONE STRING: 
+Pick your timezone string from https://docs.microsoft.com/azure/data-explorer/kusto/query/timezone
+
+
+KUBERNETES SECURITY SPECIALIST:
+walidshaari/Certified-Kubernetes-Security-Specialist: Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam. Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. (github.com)
+
+Zero to Kubernetes with Azure: https://idursun.com/posts/zero_to_kubernetes/
